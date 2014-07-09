@@ -46,10 +46,10 @@ p {
  */
 
 .banner {
-    background: transparent url('http://nomadicalsabbatical.com/wp-content/uploads/2013/08/Santorini-Long-Term-Travel.jpg') 0 0 no-repeat fixed;
+    background: transparent url('http://p1.pichost.me/i/39/1623203.jpg') 0 0 no-repeat fixed;
     text-align: center;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://nomadicalsabbatical.com/wp-content/uploads/2013/08/Santorini-Long-Term-Travel.jpg', sizingMethod='scale');
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://p1.pichost.me/i/39/1623203.jpg', sizingMethod='scale');
 
     height: 200px;
     width: 100%;
