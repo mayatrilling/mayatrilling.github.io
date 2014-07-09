@@ -47,10 +47,10 @@ p {
  */
 
 .banner {
-    background: transparent url('http://upload.wikimedia.org/wikipedia/commons/d/da/SF_From_Marin_Highlands3.jpg') 0 0 no-repeat fixed;
+    background: transparent url('http://cedestinations.com/wp-content/uploads/2014/04/San-Francisco-by-Steve-Carter.jpg') 0 0 no-repeat fixed;
     text-align: center;
     background-size: cover;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://upload.wikimedia.org/wikipedia/commons/d/da/SF_From_Marin_Highlands3.jpg', sizingMethod='scale');
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://cedestinations.com/wp-content/uploads/2014/04/San-Francisco-by-Steve-Carter.jpg', sizingMethod='scale');
 
     height: 200px;
     width: 100%;
